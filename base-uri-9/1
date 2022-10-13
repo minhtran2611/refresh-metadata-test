@@ -1,1 +1,31 @@
-{"name":"Declan","image":"https://gateway.pinata.cloud/ipfs/QmeanVufwqQkgNymH2arAX7P1NrPxB9xySCQdukpwMpxQs/1657555751410693_c5_720x720.jpeg","attributes":[]}
+{
+  "description": "Candy Lamp chandelier Type B with 18 Bulb Double Layer.", 
+  "external_url": "https://nft.leatique.com/", 
+  "animation_url": "https://6bwwgul6qqukv7ntj5637euucxxbqmttzqz7lft6lglhoem4aq2a.arweave.net/8G1jUX6EKKr9s099v5KUFe4YMnPMM_WWflmWdxGcBDQ",
+  "image": "https://utulmn2irtobbthuvpptqbmit4hyyqkisolbspwuiqqtxicyixmq.arweave.net/pOi2N0iM3BDM9KvfOAWInw-MQUiTlhk-1EQhO6BYRdk", 
+  "name": "Candy Lamp Chandelier",
+  "attributes": [
+    {
+      "trait_type": "TYPE", 
+      "value": "Lamp"
+    }, 
+    {
+      "trait_type": "MODEL", 
+      "value": "Chandelier"
+    }, 
+    {
+      "trait_type": "BULB", 
+      "value": 18
+    }, 
+    {
+      "trait_type": "STYLE", 
+      "value": "Shabby Chic"
+    }, 
+    {
+      "display_type": "date", 
+      "trait_type": "Mint", 
+      "value": 1662226185
+    }
+  ]
+}
+1
